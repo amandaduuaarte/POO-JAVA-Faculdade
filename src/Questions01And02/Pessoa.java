@@ -1,5 +1,7 @@
 package Questions01And02;
 
+import Question03.Aluno;
+
 public abstract class Pessoa {
     private String cpf;
     private String nome;
